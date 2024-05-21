@@ -34,7 +34,7 @@ Augmented reality web based experience for a Fanta and Tiktok campaign, promotin
 
  
 <p align="left">
- <p> This webAR experience, built with 8th Wall and A-FRAME challenges influencer to test Fanta flavours in relation with the watched content.</p>
+ <p> This webAR experience, built with 8th Wall, A-FRAME and REACT, challenges influencer to test Fanta flavours in relation with the watched content.</p>
  
   <h3>Challenges</h3
    <p>
